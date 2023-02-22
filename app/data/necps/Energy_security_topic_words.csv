@@ -1,0 +1,51 @@
+,topic_id,word,importance,word_count
+40,4,res,0.00695196,204
+30,3,transmission system,0.0065583163,189
+31,3,res,0.006523566,204
+10,1,transmission system,0.0060691717,189
+0,0,res,0.006046161,204
+41,4,lignite,0.0060144,119
+42,4,crude oil,0.0059967185,117
+32,3,ktoe,0.005971367,150
+11,1,res,0.0058819233,204
+12,1,transmission system operator,0.005594592,141
+1,0,transmission system,0.005447646,189
+20,2,res,0.0054116817,204
+43,4,nuclear fuel,0.005380261,150
+44,4,transmission system,0.0053428058,189
+13,1,final consumption,0.005310389,129
+21,2,transmission system,0.0051904432,189
+2,0,ktoe,0.0050945855,150
+22,2,billion,0.005050958,119
+33,3,nuclear fuel,0.004900564,150
+34,3,transmission system operator,0.0047967397,141
+23,2,nuclear fuel,0.004726528,150
+45,4,nuclear power,0.0046750233,90
+46,4,expansion,0.0046379343,101
+47,4,billion,0.0045666643,119
+14,1,ktoe,0.0044112746,150
+3,0,power generation,0.004247095,126
+15,1,nuclear fuel,0.004232394,150
+4,0,transmission system operator,0.0041264244,141
+5,0,o,0.0041037113,92
+24,2,ktoe,0.004079534,150
+35,3,power generation,0.0040613953,126
+25,2,extraction,0.0039954344,87
+6,0,gw,0.0039950907,103
+26,2,nuclear power plant,0.0039662337,114
+27,2,power generation,0.003816226,126
+36,3,final consumption,0.0038003589,129
+16,1,demand response,0.003799592,105
+48,4,final consumption,0.0037924477,129
+37,3,oil petroleum product,0.0037906524,111
+28,2,final consumption,0.0037449298,129
+7,0,cybersecurity,0.003734431,111
+29,2,crude oil,0.003651422,117
+8,0,oil petroleum product,0.0036346666,111
+49,4,raw material,0.0036312672,63
+17,1,nuclear power plant,0.0035810391,114
+38,3,nuclear power plant,0.0035570043,114
+39,3,demand response,0.0035569207,105
+18,1,cybersecurity,0.003526489,111
+19,1,power generation,0.0035116312,126
+9,0,note,0.0034539732,97
