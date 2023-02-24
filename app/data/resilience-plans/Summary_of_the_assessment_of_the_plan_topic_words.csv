@@ -1,31 +1,51 @@
-,word,topic_id,importance,word_count
-10,csr,1,0.00695159,210
-11,eur billion,1,0.005934576,159
-12,public procurement,1,0.005516145,117
-13,milestone target,1,0.004925211,177
-14,support sme,1,0.0041899965,84
-15,tourism,1,0.0039588227,116
-20,justice system,2,0.0038930902,96
-0,csr,0,0.003808253,210
-21,milestone target,2,0.003748103,177
-1,audit authority,0,0.0037121254,87
-2,milestone target,0,0.003708784,177
-22,csr,2,0.0036011394,210
-23,tourism,2,0.0035691147,116
-16,billion,1,0.0035362097,102
-3,entity,0,0.0035184945,96
-17,teacher,1,0.0035037003,79
-18,dnsh,1,0.0034285053,116
-19,administrative capacity,1,0.003403076,78
-24,annexto,2,0.003255068,125
-4,report,0,0.0032383997,122
-25,harm,2,0.0030424935,106
-26,private sector,2,0.0029944053,75
-5,warrantrate ofunder assessment criterion,0,0.0029937015,126
-27,recovery resilience facility,2,0.002985604,87
-6,sustainable mobility,0,0.0029170988,90
-7,componenton,0,0.0028488606,54
-8,european commission,0,0.0028433828,75
-28,warrantrate ofunder assessment criterion,2,0.0028257025,126
-9,energy transition,0,0.0027839732,90
-29,eur billion,2,0.0027394886,159
+,topic_id,word,importance,word_count
+10,1,rrp,0.009226946,251
+40,4,csr,0.0073712287,254
+11,1,csr,0.006901069,254
+0,0,rrp,0.0060852477,251
+20,2,csr,0.006041674,254
+41,4,eur billion,0.0058679716,153
+30,3,rrp,0.0058655287,251
+31,3,milestone target,0.00512838,171
+32,3,csr,0.004991322,254
+1,0,csr,0.0045834933,254
+12,1,eur billion,0.004410085,153
+13,1,entity,0.004378477,96
+21,2,public procurement,0.0043539037,117
+42,4,milestone target,0.0041658645,171
+14,1,milestone target,0.0040595457,171
+43,4,rrp,0.003862137,251
+22,2,rrp,0.0037943786,251
+23,2,teacher,0.00376765,86
+15,1,support sme,0.0036845487,84
+33,3,harm,0.003657248,107
+24,2,milestone target,0.0036503465,171
+25,2,grid,0.0035459653,71
+34,3,eur billion,0.0035178573,153
+2,0,milestone target,0.0034969945,171
+26,2,check,0.0034872312,96
+16,1,dnsh,0.0034444302,116
+44,4,billion,0.003414078,102
+17,1,report,0.0033927984,120
+45,4,ministry finance,0.0033844924,84
+27,2,cost estimate,0.00334677,99
+46,4,report,0.0033437554,120
+18,1,annexto,0.003343,102
+19,1,vulnerable group,0.0033060568,87
+47,4,tourism,0.0032835584,115
+28,2,public transport,0.0032447528,72
+48,4,sustainable mobility,0.003225285,99
+35,3,tourism,0.003207462,115
+36,3,annex,0.0032020004,93
+37,3,health service,0.0031328201,72
+29,2,warrantrate ofunder assessment criterion,0.0031086751,93
+38,3,annexto,0.0030849178,102
+39,3,justice system,0.0030634839,96
+49,4,dnsh,0.0030445952,116
+3,0,public procurement,0.00290424,117
+4,0,check,0.002899491,96
+5,0,warrantrate ofunder assessment criterion,0.0028798198,93
+6,0,tourism,0.0027212782,115
+7,0,digital public service,0.002553612,84
+8,0,cost estimate,0.0025032824,99
+9,0,report,0.0024735678,120
