@@ -264,7 +264,7 @@ st.markdown(
     - Additional data comparison section shows comparison to data like geopolitical factors
     """
 )
-tabs = st.tabs(["Document details", "Topic details", "Additional data comparision"])
+tabs = st.tabs(["Document details", "Topic details", "Additional data comparison"])
 
 
 with tabs[0]:
